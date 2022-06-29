@@ -1,7 +1,8 @@
 const CONFIG = {
     titleWeb: "Thanh Ngo",
     introTitle: 'He Luu Cậu!!!',
-    introDesc: `Cậu Cứ Như Nút Like Ấy Nhỉ 😙             Tớ Phải Giữ Mới Chạm Được Trái Tim ❤️`,
+    introDesc: `Cậu Cứ Như Nút Like Ấy Nhỉ 😙             
+    Tớ Phải Giữ Mới Chạm Được Trái Tim ❤️`,
     btnIntro: 'HiHii 😉',
     title: 'Cậu Thích Tớ Có Phải Không Nào ._.',
     desc: 'Nếu cậu ko trả lời mà thoát ra tức là muốn làm chó rồi đó nha :v ',
